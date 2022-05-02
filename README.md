@@ -1,5 +1,5 @@
 # Disk Space Analyzer
-A tool that analizes the used disk storage of the sub-folders of the current folder in your machine. It can be executed with or without arguments. The arguments are as follows :
+A tool that analyses the used disk storage of the sub-folders of the current folder in your machine. It can be executed with or without arguments. The arguments are as follows :
 * -d <folder> : runs the program on a specific folder.
 * -h : sets the output in a human readable format (Ko, Mo, Go ...).
 * -s : will sort the output in reverse order.
